@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "mahir-dupovac-dgschool-rn-final",
+    "slug": "mahir-dupovac-dgschool-rn-final",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mmmahir.mahirdupovacdgschoolrnfinal",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.mmmahir.mahirdupovacdgschoolrnfinal"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f63e65cc-7a5a-4f2b-9240-52294a60e204"
+      }
+    }
+  }
+}
